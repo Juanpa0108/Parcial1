@@ -1,0 +1,10 @@
+REGISTRO DE VIDEOS DESCARGADOS
+
+En el siguiente orden se guardaran los datos:
+
+Fecha de publicacion(YY/MM/DD)
+Nombre de video
+Fecha de descarga(YY/MM/DD)
+
+
+
